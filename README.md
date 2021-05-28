@@ -4,7 +4,6 @@
 
 Anggota Tim (Nama/NIM): (Andre Rizki Haryuaditya-185150307111003), (Dading Firwandhi Sukma-185150300111001), (Sasmita Eko Raharjo-185150300111005), dan (Satya Haryo Prasojo-185150301111017).
 
-Berikut link untuk github kodingan: https://github.com/Andrerizki454/Projek-Akhir-Pemrograman-Aplikasi-Web
 
 Berikut link untuk video tata cara dan penjelasan website: https://www.youtube.com/watch?v=KIzGJ3VifRM
 
